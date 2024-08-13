@@ -1,0 +1,12 @@
+.t1{
+    color: black;
+    float: left;
+}ul{
+    float: :right
+    list-style-type: none;
+}
+li{
+    float: left;
+    padding: 10px;
+}
+
