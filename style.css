@@ -2,7 +2,7 @@
     color: black;
     float: left;
 }ul{
-    float: :right
+    float: right;
     list-style-type: none;
 }
 li{
