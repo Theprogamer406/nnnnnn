@@ -5,6 +5,7 @@ body{
 .t1{
     color: black;
     float: left;
+    font-size: 30px;
 }ul{
     float: right;
     list-style: none;
@@ -13,8 +14,13 @@ li{
     float: left;
     padding: 10px;
     font-size: 22px;
+    color: white;
 }
 nav{
     height: 67px;
     background-color: aqua;
+}
+a{
+    text-decoration: none;
+    color: white;
 }
